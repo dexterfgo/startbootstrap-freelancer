@@ -13,10 +13,11 @@ a {
 }
 
 .bg-primary {
-  background-color: $primary !important;
+  background-color: #18BC9C !important;
   background-image: url("../img/backgrounds/05-full.jpg") !important;
   background-repeat: no-repeat;
-  background-blend-mode: darken;
+  background-size: cover;
+  background-blend-mode: saturation;
 }
 
 .bg-secondary {
